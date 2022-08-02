@@ -23,10 +23,6 @@ Actualmente trabajo como *Analista Programador* en una Startup Peruana de nombre
     </tr>
 </table> 
  
-## Encuéntrame en la web 🌎:
-* [Twiter](https://twitter.com/ginogalarzac)
-* [Instagram](https://www.instagram.com/ginogalarzac/)
-
 <!--
 *ginogalarzac/ginogalarzac* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
